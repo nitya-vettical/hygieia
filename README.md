@@ -1,4 +1,4 @@
-# 🩺 Symptom-to-Disease Predictor
+# 🩺 Hygieia : Symptom-to-Disease Predictor
 
 A simple yet powerful AI-based healthcare backend that predicts possible diseases based on user-reported symptoms using a machine learning model trained on real symptom data.
 
