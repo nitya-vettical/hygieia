@@ -1,6 +1,7 @@
 # 🩺 Hygieia : Symptom-to-Disease Predictor
 
-A simple yet powerful AI-based healthcare backend that predicts possible diseases based on user-reported symptoms using a machine learning model trained on real symptom data.
+HYGIEIA is an AI-powered chatbot that helps users identify potential health conditions based on symptoms. It's designed to be a **friendly and educational** health assistant — not a replacement for professional diagnosis.
+
 
 🔍 Features
 
