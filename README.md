@@ -23,4 +23,4 @@ HYGIEIA is an AI-powered chatbot that helps users identify potential health cond
 -  🤖 **ML Model**: Scikit-learn + TF-IDF + KNN
   
 
-To conclude , HYGIEIA is a simple yet powerful demonstration of how machine learning can be applied to real-world problems in healthcare.
+To conclude , HYGIEIA is a simple yet powerful demonstration of how machine learning can be applied to real-world problems in healthcare. By combining natural language processing with an interactive chatbot interface, it provides users with helpful insights into their symptoms in a user-friendly way.
