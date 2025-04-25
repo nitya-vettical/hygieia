@@ -18,3 +18,4 @@ HYGIEIA is an AI-powered chatbot that helps users identify potential health cond
 
 
 🧩 Tech Stack
+- ⚛️ **Frontend**: React + Tailwind CSS + React Icons 
