@@ -20,4 +20,7 @@ HYGIEIA is an AI-powered chatbot that helps users identify potential health cond
 🧩 Tech Stack
 - ⚛️ **Frontend**: React + Tailwind CSS + React Icons
 - 🐍 **Backend**: Flask + Flask-CORS
--  🤖 **ML Model**: Scikit-learn + TF-IDF + KNN  
+-  🤖 **ML Model**: Scikit-learn + TF-IDF + KNN
+  
+
+To conclude , HYGIEIA is a simple yet powerful demonstration of how machine learning can be applied to real-world problems in healthcare.
