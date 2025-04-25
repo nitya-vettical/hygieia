@@ -7,6 +7,7 @@ HYGIEIA is an AI-powered chatbot that helps users identify potential health cond
 🔍 Features
 - 🤖 Chat with an AI health assistant
 - 🧠 Intelligent symptom analysis via backend prediction API
+- 💬 Real-time, user-friendly messaging interface
 
 
 
